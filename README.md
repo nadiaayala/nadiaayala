@@ -13,6 +13,7 @@
   
   <br>
   <p> You can <strong>contact </strong>and learn more about me on: 
+  <br> 
   
   <a target="_blank" href="https://www.linkedin.com/in/nadia-ayala/">
   <img align="left" alt="Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
